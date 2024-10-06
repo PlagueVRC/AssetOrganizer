@@ -15,3 +15,6 @@ An (actually good) asset organizer for unity/vrchat workflows. Contextually orga
 ## Contributing
 Please read and understand the existing asset type modules, and use one as a template. This is essential for predictable outcomes to happen.
 Once ready, make a pull request.
+
+## Donate
+You can find links on the right to donate if you like.
