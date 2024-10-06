@@ -1,6 +1,7 @@
 # AssetOrganizer
 An (actually good) asset organizer for unity/vrchat workflows. Contextually organizes assets based on context, such as materials by shader.
 
+## How things are organized
 | Asset Type | Context 
 | :------------------- | :----------:
 | Animations             | Scene Name > Avatar GameObject Name > Asset Type > Animator Layer > Animator State >
@@ -10,3 +11,7 @@ An (actually good) asset organizer for unity/vrchat workflows. Contextually orga
 | Scenes              | Scene Name > Avatar GameObject Name > Asset Type >
 | Textures              | Scene Name > Avatar GameObject Name > Asset Type > Material Name >
 | VRCSDK              | Scene Name > Avatar GameObject Name > Asset Type >
+
+## Contributing
+Please read and understand the existing asset type modules, and use one as a template. This is essential for predictable outcomes to happen.
+Once ready, make a pull request.
