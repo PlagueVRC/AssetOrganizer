@@ -197,8 +197,6 @@ public class AssetOrganizer : EditorWindow
             AssetDatabase.CreateFolder(root, path.Replace(root + "/", ""));
         }
     }
-    
-    
 }
 
 #endif
