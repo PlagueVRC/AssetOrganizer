@@ -1,0 +1,23 @@
+{
+    "name": "AssetOrganizer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b3f05420b5b64f2f95fca466fa5d4ea3",
+        "GUID:201575e38d2b4750bad7c9349b3bf626"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "dev.hai-vr.resilience.vixen.vrc",
+            "expression": "",
+            "define": "VIXEN_IS_PRESENT"
+        }
+    ],
+    "noEngineReferences": false
+}
