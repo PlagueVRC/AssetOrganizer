@@ -1,5 +1,5 @@
 # AssetOrganizer
-An (actually good) asset organizer for unity/vrchat workflows. Contextually organizes assets based on context, such as materials by shader.
+An (actually good) asset organizer for unity/vrchat workflows. Organizes assets based on context, such as materials by shader.
 
 To download, click the green "Code" button, then download zip (this is effectively cloning), afterwards open the zip file in a program like WinRAR and drag the folder within into your assets folder.
 
